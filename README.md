@@ -10,7 +10,9 @@ ABEX-RAT synergizes generative data augmentation with robust adversarial trainin
 ## 🚀 Framework
 
 The ABEX-RAT architecture is a three-stage pipeline as illustrated in the paper.
-<img width="2470" height="1366" alt="frame" src="https://github.com/user-attachments/assets/f41d9269-88b9-4556-9ca4-5d42e4d2cf5a" />
+
+<img width="2460" height="1358" alt="frame" src="https://github.com/user-attachments/assets/3201850f-2d45-466c-96e5-f4e0be5acfe6" />
+
 
 1.  **Stage 1: Abstractive-Expansive (ABEX) Data Augmentation**:
     * A large language model (LLM), such as Qwen3, is used to distill raw accident reports into concise abstracts that capture the core semantics.
